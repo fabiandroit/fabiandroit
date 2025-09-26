@@ -1,7 +1,7 @@
 ## Hola, soy Fabian Guerrero👋
 <!-- Banner (puedes cambiar la imagen por la tuya propia) -->
 <p align="center">
-  <img src="faroit.png" alt="banner Unreal Engine" />
+  <img src="Descargas/faroit.png" alt="banner Unreal Engine" />
 </p>
 
 # 👋 ¡Hola! Soy [Tu Nombre]
