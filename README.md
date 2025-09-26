@@ -8,6 +8,11 @@
 
 ## Acerca de mi
 
+Soy un desarrollador de juegos en formación apasionado por la creación de videojuegos con Unreal Engine 5.  
+Actualmente estoy aprendiendo C++ y Blueprints, con un enfoque especial en Inteligencia Artificial para juegos (Behavior Trees, Perception System, EQS). 
+Me motiva construir experiencias interactivas donde los NPCs tengan comportamientos inteligentes y realistas.  
+Mi objetivo es crecer como Game AI Developer y compartir mis proyectos y aprendizajes aquí en GitHub. 🚀
+
 🎮 **Desarrollador en formación de Unreal Engine**  
 💡 Apasionado por la **IA en videojuegos**  
 📘 Aprendiz de **C++ y Blueprints**
