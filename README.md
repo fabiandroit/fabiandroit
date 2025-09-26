@@ -1,7 +1,7 @@
 ## Hola, soy Fabian Guerrero👋
 <p align="center">
   <!-- Banner (ajustado al 70% del ancho) -->
-  <img src="https://github.com/fabiandroid/fabiandroid/blob/master/faroit.png?raw=true" 
+  <img src="https://github.com/fabiandroit/fabiandroit/blob/master/faroit.png?raw=true" 
        alt="banner Unreal Engine" 
        width="70%" />
 </p>
