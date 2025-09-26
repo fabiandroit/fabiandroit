@@ -6,7 +6,7 @@
        width="70%" />
 </p>
 
-# 👋 ¡Hola! Soy Fabian Guerrero
+# Acerca de mi
 
 🎮 **Desarrollador en formación de Unreal Engine**  
 💡 Apasionado por la **IA en videojuegos**  
