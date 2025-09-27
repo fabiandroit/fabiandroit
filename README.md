@@ -18,6 +18,7 @@ Mi objetivo es crecer como Game AI Developer y compartir mis proyectos y aprendi
 📘 Aprendiz de **C++ y Blueprints**
 
 ---
+<h3>My GitHub Stats</h3>
 
 ## 🛠️ Tecnologías y herramientas
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
