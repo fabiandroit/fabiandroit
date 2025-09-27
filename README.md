@@ -21,7 +21,7 @@ Mi objetivo es crecer como Game AI Developer y compartir mis proyectos y aprendi
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <br><br><br><br><br><br><br>
----
+
 ## 🛠️ Tecnologías y herramientas
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
