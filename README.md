@@ -1,6 +1,7 @@
-## Hola, soy Fabian Guerrero👋
+## Hola, �
 <p align="center">
   <!-- Banner (ajustado al 70% del ancho) -->
+  <h1 align="center">Hola, soy Fabian Guerrero�</h1>
   <img src="https://github.com/fabiandroit/fabiandroit/blob/master/faroit.png?raw=true" 
        alt="banner Unreal Engine" 
        width="70%" />
