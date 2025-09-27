@@ -19,11 +19,11 @@ Mi objetivo es crecer como Game AI Developer y compartir mis proyectos y aprendi
 
 ---
 <h3>My GitHub Stats</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fabiandroit&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fabiandroit&show_icons=true&theme=dark&locale=en" alt="fabiandroit" /></p>
 <br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiandroit&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiandroit&theme=dark" alt="fabiandroit" /></p>
+<br><br><br><br><br><br><br><br><br>
 
 ## 🛠️ Tecnologías y herramientas
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
